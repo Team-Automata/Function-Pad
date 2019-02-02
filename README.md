@@ -3,6 +3,7 @@
 Arduino Leonardo based hotkey controller using the Adafruit Trellis. Pushbuttons and rotary encoder allow for selecting different modes and profiles.
 
 **FunctionPad6P** - For Blender 2.78, no longer being updated
+
 **FunctionPad-6.1.P** - For Blender 2.80
 
 ## Features ##
